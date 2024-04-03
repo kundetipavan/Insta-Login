@@ -1,12 +1,12 @@
 body
 {
-    background-color:rgb(22, 20, 17);
+    background-color:black;
     padding:45px;    
     
 }
 div{
     text-align:center;
-    background-color:rgba(145, 145, 63, 0.637) ;
+    background-color:grey;
    border-radius:10px;
     }   
 h1{
@@ -28,7 +28,7 @@ button:hover{
     color:black;
 }
 #insta{
-    box-shadow:6px 6px 4px grey;
+    box-shadow:6px 6px 4px white;
     height: 10%;
     width: 40%;
     margin-left: 20em;
